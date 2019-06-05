@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A .NetStandard class library that allows the client to make any type of HTTP request</Description>
+    <PackageProjectUrl>https://github.com/Roleenmoreland/WebCommunicator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Roleenmoreland/WebCommunicator</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Roleen Moreland</Authors>
+    <Company>Roleen Moreland</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>
