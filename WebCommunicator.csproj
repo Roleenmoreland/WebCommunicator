@@ -8,6 +8,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Roleen Moreland</Authors>
     <Company>Roleen Moreland</Company>
+    <PackageLicenseUrl>https://github.com/Roleenmoreland/WebCommunicator</PackageLicenseUrl>
+    <Copyright>Copy right 2019</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
